@@ -18,8 +18,15 @@ Duties
 ### ORGANIZERS
 #### Melissa
 
-Full names: Melissa Ashington
+Full name: Melissa Ashington
+
 House Number: 12M
+
+#### Paul
+
+Full name: Paul Awenton
+
+House Number: 5B
 
 
 
