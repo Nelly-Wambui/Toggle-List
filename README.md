@@ -18,7 +18,7 @@
   
   
 
-
+[Duties](https://github.com/Nelly-Wambui/Toggle-List/blob/main/duties.md)
    
 
   
