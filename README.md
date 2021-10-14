@@ -2,7 +2,7 @@
 ## Base Court Sports Activity
 
 <details>
-  <summary> Organizers </summary>
+  <summary> [Organizers](https://github.com/Nelly-Wambui/Toggle-List/blob/main/README.md#organizers) </summary>
   
   1. [Melissa](url)
   2. [Paul](url)
