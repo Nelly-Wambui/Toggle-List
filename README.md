@@ -8,13 +8,12 @@
   3. [Sam](url)
 
   
-<details>
-  <summary> Duties </summary>
+Duties
   
   1. [Melissa- Refreshments](url)
   2. [Paul- Gifts](url)
   3. [Sam- Venue](url)
-</details>
+
   
 ### ORGANIZERS
 #### Melissa
