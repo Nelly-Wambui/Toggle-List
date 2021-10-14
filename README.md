@@ -1,13 +1,12 @@
 # Toggle-List
 ## Base Court Sports Activity
 
-<details>
-  <summary> [Organizers](https://github.com/Nelly-Wambui/Toggle-List/blob/main/README.md#organizers) </summary>
+[Organizers](https://github.com/Nelly-Wambui/Toggle-List/blob/main/README.md#organizers)
   
   1. [Melissa](url)
   2. [Paul](url)
   3. [Sam](url)
-</details>
+
   
 <details>
   <summary> Duties </summary>
