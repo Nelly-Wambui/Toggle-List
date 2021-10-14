@@ -17,20 +17,6 @@
 </details>
   
   
-## Melissa
-slkskjdsiljdishdbsjnskjndkjlsand
-uasdHAHDLKJ
-DHUWHDJWHDIJLWAd
-
-## Paul
-hIKDJSDHiawljdhweainfdkaswnfdl
-ndiSHDjanhdjnsadn
-dkosajiudjiauwdawsnid
-
-## Sam
-bwaujkwndhiauwlhfesfhnl
-aedhaweiukdhwajdjawkfd
-ehfdauhsefjaehsfeu
 
 
    
