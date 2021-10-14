@@ -5,7 +5,7 @@
   
   1. [Melissa](https://github.com/Nelly-Wambui/Toggle-List/blob/main/README.md#melissa)
   2. [Paul](https://github.com/Nelly-Wambui/Toggle-List/blob/main/README.md#paul)
-  4. [Sam](url)
+  4. [Sam](https://github.com/Nelly-Wambui/Toggle-List/blob/main/README.md#sam)
 
   
 Duties
