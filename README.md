@@ -3,7 +3,7 @@
 
 [Organizers](https://github.com/Nelly-Wambui/Toggle-List/blob/main/README.md#organizers)
   
-  1. [Melissa](url)
+  1. [Melissa](https://github.com/Nelly-Wambui/Toggle-List/blob/main/README.md#melissa)
   2. [Paul](url)
   3. [Sam](url)
 
