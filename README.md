@@ -10,7 +10,7 @@
   
 [Duties](https://github.com/Nelly-Wambui/Toggle-List/blob/Duties/duties.md#duties)
   
-  1. [Melissa- Refreshments](url)
+  1. [Melissa- Refreshments](https://github.com/Nelly-Wambui/Toggle-List/blob/Duties/duties.md#melissa)
   2. [Paul- Gifts](url)
   3. [Sam- Venue](url)
 
