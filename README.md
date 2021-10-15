@@ -8,7 +8,7 @@
   4. [Sam](https://github.com/Nelly-Wambui/Toggle-List/blob/main/README.md#sam)
 
   
-Duties
+[Duties](https://github.com/Nelly-Wambui/Toggle-List/blob/Duties/duties.md#duties)
   
   1. [Melissa- Refreshments](url)
   2. [Paul- Gifts](url)
