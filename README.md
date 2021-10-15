@@ -12,7 +12,7 @@
   
   1. [Melissa- Refreshments](https://github.com/Nelly-Wambui/Toggle-List/blob/Duties/duties.md#melissa)
   2. [Paul- Gifts](https://github.com/Nelly-Wambui/Toggle-List/blob/Duties/duties.md#paul)
-  3. [Sam- Venue](url)
+  3. [Sam- Venue](https://github.com/Nelly-Wambui/Toggle-List/blob/Duties/duties.md#sam)
 
   
 ### ORGANIZERS
