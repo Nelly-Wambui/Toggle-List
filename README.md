@@ -11,7 +11,7 @@
 [Duties](https://github.com/Nelly-Wambui/Toggle-List/blob/Duties/duties.md#duties)
   
   1. [Melissa- Refreshments](https://github.com/Nelly-Wambui/Toggle-List/blob/Duties/duties.md#melissa)
-  2. [Paul- Gifts](url)
+  2. [Paul- Gifts](https://github.com/Nelly-Wambui/Toggle-List/blob/Duties/duties.md#paul)
   3. [Sam- Venue](url)
 
   
