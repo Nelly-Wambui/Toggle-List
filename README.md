@@ -8,11 +8,11 @@
   4. [Sam](https://github.com/Nelly-Wambui/Toggle-List/blob/main/README.md#sam)
 
   
-Duties
+[Duties](https://github.com/Nelly-Wambui/Toggle-List/blob/Duties/duties.md#duties)
   
-  1. [Melissa- Refreshments](url)
-  2. [Paul- Gifts](url)
-  3. [Sam- Venue](url)
+  1. [Melissa- Refreshments](https://github.com/Nelly-Wambui/Toggle-List/blob/Duties/duties.md#melissa)
+  2. [Paul- Gifts](https://github.com/Nelly-Wambui/Toggle-List/blob/Duties/duties.md#paul)
+  3. [Sam- Venue](https://github.com/Nelly-Wambui/Toggle-List/blob/Duties/duties.md#sam)
 
   
 ### ORGANIZERS
